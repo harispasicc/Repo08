@@ -5,6 +5,6 @@ function myDress() {
     return dress;
 }
 myDress();
-console.log(dress)
+console.log(dress);
 
-module.exports = myDress;
+module.exports = myDress;                 
